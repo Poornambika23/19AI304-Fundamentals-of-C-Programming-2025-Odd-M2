@@ -88,14 +88,9 @@ int main() {
 }
 ```
 # Output:
-```
-Enter marks in Math: 85
-Enter marks in Science: 92
-Enter marks in English: 78
+<img width="388" height="343" alt="image" src="https://github.com/user-attachments/assets/ab87d8c0-d053-4d95-bcf6-04ca46ee844f" />
 
-Average Marks = 85.00
-Grade: B
-```
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -140,19 +135,8 @@ int main() {
 }
 ```
 # Output:
-```
-Multiplication Table of 15:
-15 x 1 = 15
-15 x 2 = 30
-15 x 3 = 45
-15 x 4 = 60
-15 x 5 = 75
-15 x 6 = 90
-15 x 7 = 105
-15 x 8 = 120
-15 x 9 = 135
-15 x 10 = 150
-```
+<img width="413" height="457" alt="image" src="https://github.com/user-attachments/assets/d3a300ba-9029-4d2b-8a98-d62e24057665" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -218,13 +202,8 @@ int main() {
     return 0;
 }
 # Output:
-```
-Enter a number: 13
-13 is a Prime Number.
+<img width="408" height="267" alt="image" src="https://github.com/user-attachments/assets/39b51f2c-2cea-4fc4-be35-59f8bec5a2a0" />
 
-Enter a number: 20
-20 is Not a Prime Number.
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -299,13 +278,8 @@ int main() {
 }
 ```
 # Output:
-```
-12345
-2   4
-3   3
-4   2
-54321
-```
+<img width="376" height="330" alt="image" src="https://github.com/user-attachments/assets/222d2ac3-d458-4b5e-a822-a10b61f73dd1" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -379,16 +353,8 @@ int main() {
 }
 ```
 # Output:
-```
-0
-7 0 7
-6 7 0 7 6
-5 6 7 0 7 6 5
-4 5 6 7 0 7 6 5 4
-3 4 5 6 7 0 7 6 5 4 3
-2 3 4 5 6 7 0 7 6 5 4 3 2
-1 2 3 4 5 6 7 0 7 6 5 4 3 2 1
-```
+<img width="401" height="374" alt="image" src="https://github.com/user-attachments/assets/725db10d-05bd-4bee-921d-7607061a8616" />
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
